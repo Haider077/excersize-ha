@@ -1,0 +1,4 @@
+Git ignore can be made by creating a file called .gitignore in your root directory.
+This file allows you to include files that you want to be ignored by
+git processes. I commonly use this for web projects where lots of build modules
+are created and are not necessary to put on the repository.
